@@ -1,0 +1,9 @@
+# ignore the following
+
+obj/
+bin/
+.vs/
+FlexAPI/Flex.UiWpfFramework.dll
+FlexAPI/FlexLib.dll
+FlexAPI/Util.dll
+FlexAPI/Vita.dll
